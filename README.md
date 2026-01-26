@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Daniel!
 
-🎓 **I'm a student majoring in Computer Science and Economics at Johns Hopkins University**
+🎓 **I'm a student majoring in Computer Science and minoring in Economics at Johns Hopkins University**
 
-I'm currently learning full-stack development
+I'm currently interested in Artificial Intelligence and full-stack development
 
 ---
 
