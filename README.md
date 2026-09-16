@@ -1,12 +1,12 @@
-# 👋 Hi there, I'm Daniel!
+# Hi there, I'm Daniel!
 
-🎓 **I'm a student majoring in Computer Science and minoring in Economics at Johns Hopkins University**
+**I'm a student majoring in Computer Science and minoring in Economics at Johns Hopkins University**
 
 I'm currently interested in Artificial Intelligence and full-stack development
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
@@ -28,11 +28,11 @@ I'm currently interested in Artificial Intelligence and full-stack development
 </div>
 
 
-## 🤝 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dsung1/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:dsung2455@gmail.comm)
 
 ---
 
-*✨ Thanks for stopping by! ✨*
+
